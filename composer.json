@@ -1,5 +1,5 @@
 {
-  "name": "api/composer",
+  "name": "aparser",
   "type": "library",
   "description": "for aparser",
   "license": "MIT",
@@ -11,7 +11,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "aparser\\": "Aparser/"
+      "aparser\\": ""
     }
   }
   
