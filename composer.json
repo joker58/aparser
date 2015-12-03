@@ -8,7 +8,12 @@
       "name": "Eugene",
       "email": ""
     }
-  ]
+  ],
+  "autoload": {
+    "psr-4": {
+      "aparser\\": "Aparser/"
+    }
+  }
   
  
 }
