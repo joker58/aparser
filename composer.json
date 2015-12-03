@@ -1,0 +1,14 @@
+{
+  "name": "api/composer",
+  "type": "library",
+  "description": "for aparser",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Eugene",
+      "email": ""
+    }
+  ],
+  
+ 
+}
